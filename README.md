@@ -23,4 +23,5 @@ Frontend: HTML, CSS, JavaScript
 Backend: PHP
 
 Database: MySQL (via db_connect.php)
+
 Hosting: Can be deployed on Apache or XAMPP
